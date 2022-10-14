@@ -1,1 +1,1 @@
-# trading-bot-learning
+# trading-bot
